@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NowaMusic</string>
+
+    <string name="notification_channel_name">Playback cannot be resumed</string>
+    <string name="back_button">Back</string>
+
+</resources>
